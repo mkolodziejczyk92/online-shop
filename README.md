@@ -97,7 +97,8 @@ If you don't have environment variables set, you should set it or change applica
 ![Mockito](https://img.shields.io/badge/Mockito-grey.svg)
 ***
 
+The history of commits is available at https://github.com/Savilus/online-shop
+
 Created by 
 * Marcin Kołodziejczyk
-* Michał Langner
 * Jakub Łanoszka
