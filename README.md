@@ -13,7 +13,6 @@
 </div>
 
 # Online Shop
-***
 ### Introduce
 ***
 This project is fully functioning web application that is an online shop. 
